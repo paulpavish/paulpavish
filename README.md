@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulpavish
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Robot Oerating System
+- 🌱 I’m currently learning Robot Operating System
 - 💞️ I’m looking to collaborate on ROS & Micro-ROS related projects
 - 📫 Reach me at LinkedIn : https://linkedin.com/paulpavish or website : https://basicsexplained.com/creator
 
