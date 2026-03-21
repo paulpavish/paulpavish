@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paulpavish
-- 👀 A Robotics Enthusiastic, Hobbyist & Professional
-- 🌱 I’m currently learning, teaching and working with Robot Operating System
-- 💞️ I’m looking to collaborate on ROS & Micro-ROS related projects
+<!-- ROTATING_TAGLINE_START -->
+> Your current rotating tagline appears here.
+<!-- ROTATING_TAGLINE_END -->
 - 📫 Reach me at LinkedIn : https://linkedin.com/paulpavish or website : https://basicsexplained.com/creator
 
 <!---
