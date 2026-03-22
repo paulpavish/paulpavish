@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulpavish
 <!-- ROTATING_TAGLINE_START -->
-> I used to believe my code worked too.
+> Writing code today that future me will file a bug against.
 <!-- ROTATING_TAGLINE_END -->
 - 📫 Reach me at LinkedIn : https://linkedin.com/paulpavish or website : https://basicsexplained.com/creator
 
