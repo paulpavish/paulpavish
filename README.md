@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @paulpavish
 <!-- ROTATING_TAGLINE_START -->
-🧪
-My job is proving “works on my machine” is a lie.
-qa
-sarcastic
-:test_tube:
-sunday
-weekend
+🎯 : I used to write bugs. Now I hunt them professionally. 
+
+[qa] -> witty
+
+sunday is a weekend.
 <!-- ROTATING_TAGLINE_END -->
 - 📫 Reach me at LinkedIn : https://linkedin.com/paulpavish or website : https://basicsexplained.com/creator
 
