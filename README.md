@@ -1,6 +1,12 @@
 - 👋 Hi, I’m @paulpavish
 <!-- ROTATING_TAGLINE_START -->
-> Writing code today that future me will file a bug against.
+🧪
+My job is proving “works on my machine” is a lie.
+qa
+sarcastic
+:test_tube:
+sunday
+weekend
 <!-- ROTATING_TAGLINE_END -->
 - 📫 Reach me at LinkedIn : https://linkedin.com/paulpavish or website : https://basicsexplained.com/creator
 
