@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulpavish
 <!-- ROTATING_TAGLINE_START -->
-🧭 I don’t break builds. I reveal hidden truths.
+🔍 Debugging what AI confidently misunderstood.
 <!-- ROTATING_TAGLINE_END -->
 - 📫 Reach me at LinkedIn: https://linkedin.com/paulpavish
 - 🌐 Website: https://basicsexplained.com/creator
