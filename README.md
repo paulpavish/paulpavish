@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulpavish
 <!-- ROTATING_TAGLINE_START -->
-🔧 If the robot works, it’s engineering. If it doesn’t, it’s research.
+🦾 Building intelligent machines and slightly less intelligent humans interfaces.
 <!-- ROTATING_TAGLINE_END -->
 - 📫 Reach me at LinkedIn: https://linkedin.com/paulpavish
 - 🌐 Website: https://basicsexplained.com/creator
