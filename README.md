@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulpavish
 <!-- ROTATING_TAGLINE_START -->
-🎮 Fighting AI like it’s a final boss — except this one keeps buffering mid-attack.
+🧮 AI is just a fancy calculator - it's as incompetent as the user.
 <!-- ROTATING_TAGLINE_END -->
 - 📫 Reach me at LinkedIn: https://linkedin.com/paulpavish
 - 🌐 Website: https://basicsexplained.com/creator
