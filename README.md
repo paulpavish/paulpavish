@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulpavish
 <!-- ROTATING_TAGLINE_START -->
-🧮 AI is just a fancy calculator - it's as incompetent as the user.
+🤺 Currently wrestling AI… it’s losing, mostly because sarcasm isn’t in its code.
 <!-- ROTATING_TAGLINE_END -->
 - 📫 Reach me at LinkedIn: https://linkedin.com/paulpavish
 - 🌐 Website: https://basicsexplained.com/creator
