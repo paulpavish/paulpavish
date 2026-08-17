@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulpavish
 <!-- ROTATING_TAGLINE_START -->
-⚡ Somewhere between robotics, AI, and controlled chaos.
+📣 The future of programming: explaining to AI why its code doesn’t work.
 <!-- ROTATING_TAGLINE_END -->
 - 📫 Reach me at LinkedIn: https://linkedin.com/paulpavish
 - 🌐 Website: https://basicsexplained.com/creator
